@@ -1,9 +1,9 @@
 
 
 .. image:: Media/logo/Logo__GutMichaelBiome.png
-   :target: AboutMe.html
+   :target: index.html
    :align: center
-   :alt: Photo of Michael
+   :alt: GutMichaelBiome Logo
    :width: 30%
 
 ------
