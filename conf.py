@@ -73,7 +73,7 @@ html_context = {
    "default_mode": "light" # Set default mode to light for the theme
 }
 
-html_logo = 'Media/logo/MS_Logo_Clr-WhBG-200px.png'
+html_logo = 'Media/logo/Logo__GutMichaelBiome@0.25x.png'
 
 # The suffix of source filenames.
 source_suffix = '.rst'
