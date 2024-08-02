@@ -10,8 +10,8 @@ Below are some frequently asked questions and their answers asked during live st
 Gut-Brain-Microbiome Axis
 =========================
 
-Autism and GBMA?
-----------------
+Autism and GBM Axis?
+--------------------
 
 (coming soon)
 
