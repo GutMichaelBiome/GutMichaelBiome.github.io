@@ -38,10 +38,10 @@ If you don't see a question listed that you'd like answered, please `submit a qu
    - Title: Your question in one sentence
    - Body: Repeat your question and provide any additional details that may help us answer your question. If necessary, you can include a link to provide additional context.
 
-Disagree with an Answer?
-========================
+Submit a correction
+===================
 
-These answers are crowdsourced, and while we strive to be as accurate as possible supporting our answers with the latest scientific research we might not always be correct. We welcome your feedback and corrections! Please `submit a correction here <https://github.com/orgs/GutMichaelBiome/discussions/categories/q-a>`_ by finding the original question linked in the Q&A above and reopen the discussion by leaving a comment. Please include any relevant scientific references to support your correction. Thanks!
+These answers are crowdsourced, and while we strive to be as accurate as possible by supporting our answers with the latest scientific research, we might not always be correct. We welcome your feedback and corrections! Please `submit a correction here <https://github.com/orgs/GutMichaelBiome/discussions/categories/q-a>`_ by finding the original question linked in the Q&A above and reopen the discussion by leaving a comment. Please include any relevant scientific references to support your correction. Thanks!
 
 
 ------
