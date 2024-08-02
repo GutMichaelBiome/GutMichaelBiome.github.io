@@ -3,7 +3,7 @@ Welcome!
 ########
 
 
-Welcome to the GutMichaelBiome blog. You'll find articles, FAQs, and other helpful resources related to microbiome research and science.
+Welcome to the GutMichaelBiome blog. You'll find articles (coming soon), `FAQs <https://blog.gutmichaelbio.me/en/latest/FAQs/faq.html>`_, and other helpful resources related to microbiome research and science (coming soon).
 
 ------
 

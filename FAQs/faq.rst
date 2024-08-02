@@ -7,14 +7,25 @@ Frequently Asked Questions
 Below are some frequently asked questions and their answers asked during live streams. 
 
 
-Gut-Brain Axis
-==============
+Gut-Brain-Microbiome Axis
+=========================
+
+Autism and GBMA?
+----------------
 
 (coming soon)
 
 
-What is a Pre-/Pro-/Post-biotic?
-================================
+Pre-/Pro-/Post-biotics
+======================
+
+What are Pre-/Pro-/Post-biotics?
+--------------------------------
+
+(coming soon)
+
+Do these -biotics work?
+-----------------------
 
 (coming soon)
 
