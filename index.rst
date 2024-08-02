@@ -1,9 +1,6 @@
-####################################
-Welcome to the GutMichaelBiome Blog!
-####################################
 
 
-.. image:: Media/images/Sofie-I-Coast-2022-500px.png
+.. image:: Media/logo/Logo__GutMichaelBiome.png
    :target: AboutMe.html
    :align: center
    :alt: Photo of Michael
