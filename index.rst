@@ -1,6 +1,6 @@
 
 
-.. image:: Media/logo/Logo__GutMichaelBiome.png
+.. image:: Media/logo/Logo__GutMichaelBiome@0.25x.png
    :target: index.html
    :align: center
    :alt: GutMichaelBiome Logo
