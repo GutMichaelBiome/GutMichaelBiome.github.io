@@ -13,8 +13,6 @@ Welcome to the (future) home of the GutMichaelBiome blog. You'll find articles, 
 
    FAQs/faq
 
-------
-
 
 ..
    _More info on styling sphinx: https://sphinx-rtd-theme.readthedocs.io/en/stable/demo/structure.html
