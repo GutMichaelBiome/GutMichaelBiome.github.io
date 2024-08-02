@@ -2,12 +2,6 @@
 Welcome!
 ########
 
-.. image:: Media/logo/Logo__GutMichaelBiome@0.25x.png
-   :align: center
-   :alt: GutMichaelBiome Logo
-   :width: 30%
-
-------
 
 Welcome to the (future) home of the GutMichaelBiome blog. You'll find articles, FAQs, and other helpful resources related to microbiome research and science.
 
